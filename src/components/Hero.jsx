@@ -1,11 +1,7 @@
 export default function Hero() {
   return (
     <div>
-      <img
-        className="w-full rounded-lg"
-        src="https://i.pinimg.com/originals/3b/c6/01/3bc601083fb8fd2b0132af3c5ada1762.jpg"
-        alt="Img"
-      />
+      <h1 className="border-2 border-green-600 text-newColor">Hello World!</h1>
     </div>
   );
 }
