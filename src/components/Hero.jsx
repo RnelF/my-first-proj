@@ -1,7 +1,7 @@
 import imagePath from "../images/hero.jpg";
 export default function Hero() {
   return (
-    <div className="mx-auto my-16 w-96">
+    <div className="mx-auto my-16 w-96 m-0">
       <img
         className="rounded-2xl w-full object-bottom"
         src="https://c4.wallpaperflare.com/wallpaper/429/742/368/breaking-bad-rv-wallpaper-preview.jpg"
@@ -12,7 +12,7 @@ export default function Hero() {
           className="w-full h-full rounded-full object-cover -my-16 mx-36"
         />
       </div>
-      <div className="grid justify-center text-center my-3">
+      <div className="grid justify-center text-center my-3 font-thin">
         <h2 className="font-bold text-2xl">Arnel Francia</h2>
         <p className="font-semibold ">Codebility Trainee</p>
         <p>Nelffff@gmail.com</p>
