@@ -13,7 +13,7 @@ export default function Hero() {
         />
       </div>
       <div className="grid justify-center text-center my-3 font-thin">
-        <h2 className="font-bold text-2xl">Arnel Francia</h2>
+        <h2 className="font-bold text-3xl">Arnel Francia</h2>
         <p className="font-semibold ">Codebility Trainee</p>
         <p>Nelffff@gmail.com</p>
         <p>+639065412970</p>
