@@ -1,9 +1,9 @@
 import imagePath from "../images/hero.jpg";
 export default function Hero() {
   return (
-    <div className="mx-auto my-16 w-96 m-0">
+    <div className="mx-auto my-8 w-96 m-0">
       <img
-        className="rounded-2xl w-full object-bottom"
+        className="rounded-2xl w-72 object-bottom mx-12"
         src="https://c4.wallpaperflare.com/wallpaper/429/742/368/breaking-bad-rv-wallpaper-preview.jpg"
       />
       <div className="w-24 h-24">
