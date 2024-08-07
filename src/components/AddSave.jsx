@@ -1,6 +1,6 @@
 export default function AddSave() {
   return (
-    <div className="flex justify-center mt-16 lg:mt-48 lg:justify-start lg:ml-20">
+    <div className="flex justify-center mt-32 sm:mt-52 md:mt-60 lg:mt-96 lg:justify-start lg:ml-20">
       <div className="w-12 h-12 mr-3 lg:w-20 lg:h-20">
         <img
           className="rounded-full border border-black overflow-hidden w-full h-full"
