@@ -5,10 +5,10 @@ export default function ContentMain() {
         <div>
           <h1 className="text-7xl font-extrabold font-sans text-wrap lg:text-9xl lg:m-auto">
             Breaking Code
+            <span className="font-thin text-base md:text-3xl lg:text-6xl">
+              ™
+            </span>
           </h1>
-        </div>
-        <div>
-          <p className="text-1xl font-semibold">TM</p>
         </div>
       </div>
 
@@ -32,7 +32,7 @@ export default function ContentMain() {
           turpis. Morbi egestas auctor pharetra. Nulla in est enim.
         </p>
       </div>
-      <div className="grid grid-cols-2 gap-2 mt-8 mx-5 w-{345px}">
+      <div className="grid grid-cols-2 gap-2 pointZero:grid-cols-1 em:grid-cols-1 smallest:grid-cols-2 smaller:grid-cols-4 lg:grid-cols-4 lg:h-1/4 mt-8 mx-5 w-{345px}">
         <div className="w-full h-auto overflow-hidden">
           <img
             className="w-full h-full object-cove rounded-lg"

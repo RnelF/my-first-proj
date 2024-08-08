@@ -4,14 +4,14 @@ export default function AddSave() {
       <div className="w-12 h-12 mr-3 lg:w-20 lg:h-20">
         <img
           className="rounded-full border border-black overflow-hidden w-full h-full"
-          src="https://png.pngtree.com/png-vector/20190223/ourmid/pngtree-vector-envelope-icon-png-image_695356.jpg"
+          src="https://t4.ftcdn.net/jpg/04/89/95/59/360_F_489955936_gxQIaroszkH6496iEVgLANicEsbOfaYu.jpg"
         />
         <p className="text-center text-sm font-semibold">Add</p>
       </div>
       <div className="w-12 h-12 lg:w-20 lg:h-20">
         <img
-          className="rounded-full border border-black overflow-hidden w-full h-full object-scale-down"
-          src="https://w7.pngwing.com/pngs/942/419/png-transparent-bookmark-favorite-love-save-like-essential-icon-thumbnail.png"
+          className="rounded-full border border-black overflow-hidden w-full h-full object-center"
+          src="https://t3.ftcdn.net/jpg/05/86/79/54/360_F_586795401_Y1OkWrv7JAro7j01ajj7xeC0rvv4JZSi.jpg"
         />
         <p className="text-center text-sm font-semibold">Save</p>
       </div>

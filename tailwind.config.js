@@ -9,6 +9,12 @@ export default {
         "custom-width-3": "350px",
         "custom-width-4": "1024px",
       },
+      screens: {
+        em: "350px",
+        smallest: "450px",
+        smaller: "550px",
+        pointZero: "10px",
+      },
     },
   },
   plugins: [],
