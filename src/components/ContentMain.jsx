@@ -3,7 +3,7 @@ export default function ContentMain() {
     <div className="-my-5 mx-16 flex flex-col lg:mt-20">
       <div className="flex mb-10">
         <div>
-          <h1 className="text-7xl font-extrabold font-sans text-wrap lg:text-9xl lg:m-auto">
+          <h1 className="text-7xl font-extrabold font-sans text-wrap lg:text-9xl">
             Breaking Code
             <span className="font-thin text-base md:text-3xl lg:text-6xl">
               ™
