@@ -10,7 +10,7 @@ export default function AddSave() {
       </div>
       <div className=" w-12 h-12 lg:w-20 lg:h-20">
         <img
-          className="cursor-pointer bg-white rounded-full border border-black overflow-hidden w-full h-full object-center"
+          className="cursor-pointer rounded-full border border-black overflow-hidden w-full h-full object-center"
           src="https://t3.ftcdn.net/jpg/05/86/79/54/360_F_586795401_Y1OkWrv7JAro7j01ajj7xeC0rvv4JZSi.jpg"
         />
         <p className="text-center text-sm font-semibold">Save</p>

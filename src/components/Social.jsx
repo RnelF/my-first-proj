@@ -1,6 +1,6 @@
 export default function Social() {
   return (
-    <div className="my-10 flex justify-center mr-4 lg:justify-start lg:ml-52 lg:-mt-16">
+    <div className="my-10 flex justify-center mr-4  lg:justify-start lg:ml-52 lg:-mt-16">
       <div className="w-12 h-12 lg:w-16 lg:h-16"></div>
       <div className="w-12 h-12 lg:w-16 lg:h-16">
         <img
