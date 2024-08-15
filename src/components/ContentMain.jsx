@@ -13,8 +13,10 @@ export default function ContentMain() {
       </div>
 
       <div>
-        <h2 className="font-bold mb-3">Personal Background</h2>
-        <p>
+        <h2 className="font-bold mb-3 md:text-2xl lg:text-4xl">
+          Personal Background
+        </h2>
+        <p className="md:text-lg lg:text-xl">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor
           tincidunt dictum. Etiam eget turpis elementum, varius sapien sed,
           rutrum lorem. Nullam volutpat volutpat risus, sed ultricies sapien
@@ -23,8 +25,10 @@ export default function ContentMain() {
         </p>
       </div>
       <div>
-        <h2 className="font-bold mb-3 mt-5">Services</h2>
-        <p>
+        <h2 className="font-bold mb-3 mt-5 md:text-2xl lg:text-4xl">
+          Services
+        </h2>
+        <p className="md:text-lg lg:text-xl">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor
           tincidunt dictum. Etiam eget turpis elementum, varius sapien sed,
           rutrum lorem. Nullam volutpat volutpat risus, sed ultricies sapien

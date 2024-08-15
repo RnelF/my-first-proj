@@ -9,8 +9,10 @@ function App() {
   return (
     <div>
       <Hero />
+
       <AddSave />
       <Social />
+
       <ContentMain />
       <Footer />
     </div>
