@@ -1,8 +1,8 @@
 export default function ContentMain() {
   return (
-    <div className="-my-5 mx-16 flex flex-col lg:mt-20">
+    <div className="-my-5 mx-10 flex flex-col lg:mt-20">
       <div className="flex mb-10">
-        <div>
+        <div className="-ml-3">
           <h1 className="text-7xl font-extrabold font-sans text-wrap lg:text-9xl">
             Breaking Code
             <span className="font-thin text-base md:text-3xl lg:text-6xl">
@@ -39,12 +39,12 @@ export default function ContentMain() {
       <div className="grid grid-cols-2 gap-2 pointZero:grid-cols-1 em:grid-cols-1 smallest:grid-cols-2 smaller:grid-cols-4 lg:grid-cols-4 lg:h-1/4 mt-8 mx-5 w-{345px}">
         <div className="w-full h-auto overflow-hidden">
           <img
-            className="w-full h-full object-cove rounded-lg"
+            className="w-full h-full object-cover object-left rounded-lg"
             src="https://cdn.openart.ai/stable_diffusion/2c962b1ac3d5376a36835cb21e963666257a441e_2000x2000.webp"
             alt="Image 1"
           />
         </div>
-        <div className="w-full h-auto overflow-hidden">
+        <div className="w-full h-auto overflow-hidden object-cover object-center">
           <img
             className="w-full h-full object-cover rounded-lg"
             src="https://i.pinimg.com/originals/83/93/cb/8393cbdba3b5edfccd115226d3380d05.jpg"
@@ -53,12 +53,12 @@ export default function ContentMain() {
         </div>
         <div className="w-full h-auto overflow-hidden">
           <img
-            className="w-full h-full object-cover rounded-lg"
+            className="w-full h-full object-cover object-right rounded-lg"
             src="https://www.rollingstone.com/wp-content/uploads/2018/06/rs-18009-091613-gus-624-1379428737.jpg"
             alt="Image 3"
           />
         </div>
-        <div className="w-full h-auto overflow-hidden">
+        <div className="w-full h-auto overflow-hidden object-cover object-center">
           <img
             className="w-full h-fullobject-cover rounded-lg"
             src="https://image.cdn2.seaart.ai/2023-11-05/21805306619108357/9de4d63bfa49bfaf065fb9d7ca4f968e7d0aa809_high.webp"
